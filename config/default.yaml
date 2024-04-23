@@ -25,7 +25,7 @@ client:
 #    mongoURL: "mongodb://tvast:password@localhost:27017/protocol_server-v2?authSource=admin"
 
   webhook:
-    url: "http://localhost:80/search"
+    url: "http://api.chargepe.io/uei/bpp/search"
 
   #messageQueue:
   #  amqpURL: "amqp://guest:guest@localhost:5672"
